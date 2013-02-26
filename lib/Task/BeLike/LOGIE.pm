@@ -6,8 +6,25 @@ package Task::BeLike::LOGIE;
 
 =pkgroup CPAN modules I tend to like
  
-=pkg Moose
- 
+=pkg App::Ack
+
+=pkg DBIx::Class
+
+=pkg DateTime
+
+=pkg Dist::Zilla
+
 =pkg Moo
+
+=pkg Moose
+
+=pkg Plack
+
+=pkg Test::Most
+
+=pkg Try::Tiny
+
+=pkg namespace::autoclean
+
  
 1;
