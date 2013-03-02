@@ -26,5 +26,3 @@ package Task::BeLike::LOGIE;
 
 =pkg namespace::autoclean
 
- 
-1;
