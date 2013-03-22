@@ -1,6 +1,7 @@
 Revision history for Dist-Zilla-PluginBundle-LOGIE
 
 {{$NEXT}}
+    - Updated dist.ini to use @Author::LOGIE
 
 0.02  2013-03-02
     - Updated dist.ini to use @LOGIE
